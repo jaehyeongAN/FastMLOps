@@ -1,0 +1,13 @@
+# Required
+numpy
+matplotlib
+ml2rt
+uvicorn
+fastapi
+mlflow
+redisai
+
+# Optional
+google-cloud-storage
+scikit-learn
+pymysql
